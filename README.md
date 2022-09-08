@@ -1,9 +1,9 @@
 
 - 👋 Hi, I'm Anup Kumar Ghosh
 
-- 👀 Currently I am working in Integrify as **Data Science and Machine Learning Intern**
+- 👀 Passionate about working with data
 
-- 🌱 I’m currently learning **Data Science and Machine learning**
+- 🌱 Focusing on Data Engineering and Database development
 
 
 <h3 align="left">Connect with me:</h3>

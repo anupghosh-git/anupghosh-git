@@ -1,7 +1,7 @@
 
 - 👋 Hi, I'm Anup Kumar Ghosh
 
-- 👀 Passionate about working with data
+- 👀 Passionate about working on data
 
 - 🌱 Focusing on Data Engineering and Database development
 
